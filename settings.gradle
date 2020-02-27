@@ -1,0 +1,2 @@
+rootProject.name='poc-android-mobile-payment'
+include ':app'
